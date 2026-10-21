@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# macOS
+.DS_Store
+
+# Repositório do simulador clonado pelo T1_pt2
+CSTRSIM/
